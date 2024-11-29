@@ -11,6 +11,9 @@ datasets/7scenes*
 datasets/mip360*
 datasets/t2*
 split_files/
+**.png
 
 # Outputs.
 results_*/
+results*/
+**.ply
